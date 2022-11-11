@@ -1,5 +1,7 @@
 # Self-Supervised Vision Transformers with DINO
 
+Due to the fact that the DINO model is no longer supported by the developers and the existing problems are not being solved, this fork of the official repository of the DINO model was created. Here we added the ability to easily log with [wandb.ai](https://wandb.ai/site) and fixed an annoying error when trying to create a folder to start a workout. You can submit your changes in a pull request.
+
 PyTorch implementation and pretrained models for DINO. For details, see **Emerging Properties in Self-Supervised Vision Transformers**.  
 [[`blogpost`](https://ai.facebook.com/blog/dino-paws-computer-vision-with-self-supervised-transformers-and-10x-more-efficient-training)] [[`arXiv`](https://arxiv.org/abs/2104.14294)] [[`Yannic Kilcher's video`](https://www.youtube.com/watch?v=h3ij3F3cPIk)]
 
